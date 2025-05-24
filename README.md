@@ -91,5 +91,5 @@ Integration of ECS with ALB, RDS, ElastiCache, and ECR.
 
 Secure and scalable architecture using VPC and security groups.
 
-Note:
+Note
 This project was created for learning purposes and demonstrates practical DevOps skills in a real-world cloud environment.
