@@ -6,11 +6,12 @@ AWS infrastructure + Docker + GitLab CI/CD + Terraform
 This project demonstrates the deployment and automation of a microservices-based application using **Terraform** and various **AWS services**. It includes multiple services (backend with PostgreSQL and Redis, and a frontend) that are automatically deployed to AWS using modern DevOps tools and best practices.
 
 ## Project Structure
+```
 ├── backend_rds/ # Django backend using PostgreSQL
 ├── backend_redis/ # Django backend using Redis
 ├── frontend/ # Frontend (e.g., HTML/JS/React)
 └── project-terraform/ # Infrastructure as Code (IaC) with Terraform
-
+```
 
 ## AWS Services Used
 
